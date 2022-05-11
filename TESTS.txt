@@ -1,0 +1,27 @@
+
+
+
+z := 10;
+
+if z = 10 and z > 0 and not not not z < 0 then
+    write z
+end;
+
+if z = 2 or z = 1 or z = 10 then
+    z := z + 1;
+    write z
+end;
+
+while z != 3094 and z = 55 or z = 10 or z > 0 do
+    z := z - 1;
+    write z
+end
+
+
+
+
+
+
+
+
+
